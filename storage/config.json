@@ -1,0 +1,7 @@
+{
+  "mongooseConnectionString": "<CONNECTION STRING>",
+  "token": "<BOT TOKEN>",
+  "check": "<SUCCESS EMOJI>",
+  "wrong": "<ERROR EMOJI>",
+  "verifiedRole": "<VERIFIED ROLE NAME>"
+}
